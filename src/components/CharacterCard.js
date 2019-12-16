@@ -1,5 +1,6 @@
 import React from "react";
 
+
 export default function CharacterCard({ url, names, gender, local, species, status }) {
 
   return (
