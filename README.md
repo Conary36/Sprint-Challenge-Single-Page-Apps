@@ -29,6 +29,8 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 > Answer:
 
+Benefits of using client-side routing are no refreshing of the browser and all components are loaded in the browser for a better user experience. 
+
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
